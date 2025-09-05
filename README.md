@@ -12,7 +12,7 @@ or
 sudo cp -r * ~/.local/share/icons
 ```
 
-### Systemd-Wide
+### System-Wide
 
 ```
 sudo cp -r * /usr/share/icons
